@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-<p>MERGEDDDDDDD test pushhhhh</p>
-        <p>
-     and save to reload.
-        </p>
+<h3>qwertyui</h3>
   
       </header>
     </div>
